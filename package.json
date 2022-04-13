@@ -1,0 +1,27 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "app de ejemplo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanHContreras/PrimerRepositorio.git"
+  },
+  "keywords": [
+    "Front",
+    "end"
+  ],
+  "author": "Juan Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanHContreras/PrimerRepositorio/issues"
+  },
+  "homepage": "https://github.com/JuanHContreras/PrimerRepositorio#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
